@@ -18,6 +18,11 @@ body {
   background-color: #000000;
 }
 
+.navbar-link {
+  text-decoration: none;
+  color: inherit;
+}
+
 .navigation-button {
   color: #FFFFFF;
   padding: 5px;
